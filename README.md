@@ -1,1 +1,5 @@
-This is a [Vocs](https://vocs.dev) project bootstrapped with the Vocs CLI.
+# Vocs Template
+
+To start, run `npm install` to install dependencies.
+
+Then, run `npm run dev` to spin up a local server with the site.
